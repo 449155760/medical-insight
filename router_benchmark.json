@@ -1,0 +1,486 @@
+[
+  {
+    "query": "我爸糖尿病多年，最近脚发麻、发凉，这是并发症吗？严重不？",
+    "label": "reasoning"
+  },
+  {
+    "query": "中药和西药，哪个治我这个慢性病更治本啊？",
+    "label": "comparison"
+  },
+  {
+    "query": "阿司匹林肠溶片和普通片，有啥区别？哪个对胃好？",
+    "label": "comparison"
+  },
+  {
+    "query": "孩子发烧后出疹子，烧退了疹子出来了，这是幼儿急疹吗？",
+    "label": "reasoning"
+  },
+  {
+    "query": "糖尿病到底是个啥病啊？",
+    "label": "factual"
+  },
+  {
+    "query": "我长期便秘，吃泻药有依赖吗？会不会得肠癌？",
+    "label": "reasoning"
+  },
+  {
+    "query": "两种痔疮药，一个栓剂一个膏剂，哪个效果好得快？",
+    "label": "comparison"
+  },
+  {
+    "query": "益生菌和酸奶，调节肠胃哪个更靠谱？",
+    "label": "comparison"
+  },
+  {
+    "query": "血糖高到多少要打胰岛素？",
+    "label": "factual"
+  },
+  {
+    "query": "哎，我吃这个药胃不舒服，有没有别的同类药副作用小点的？",
+    "label": "comparison"
+  },
+  {
+    "query": "糖尿病吃啥药好？",
+    "label": "factual"
+  },
+  {
+    "query": "我吃抗抑郁药后性欲下降，能换药吗？",
+    "label": "reasoning"
+  },
+  {
+    "query": "我最近老忘事，反应也慢，是不是老年痴呆前兆？我才50岁啊。",
+    "label": "reasoning"
+  },
+  {
+    "query": "中药调理和激素治疗，对于更年期症状，哪个风险小？",
+    "label": "comparison"
+  },
+  {
+    "query": "普通验光和医学验光，配眼镜区别大吗？价格差好多。",
+    "label": "comparison"
+  },
+  {
+    "query": "孩子身高比同龄人矮，是生长激素缺乏吗？",
+    "label": "reasoning"
+  },
+  {
+    "query": "抑郁症必须吃药吗？",
+    "label": "factual"
+  },
+  {
+    "query": "医生，我手上长了个疙瘩，不疼不痒，但最近变大了，会不会是肿瘤？",
+    "label": "reasoning"
+  },
+  {
+    "query": "血压多高才算高血压？",
+    "label": "factual"
+  },
+  {
+    "query": "痛风不能吃啥？",
+    "label": "factual"
+  },
+  {
+    "query": "吃维生素C片和吃水果，补充效果一样吗？",
+    "label": "comparison"
+  },
+  {
+    "query": "我尿频尿急，但化验没炎症，这是心理问题还是别的病？",
+    "label": "reasoning"
+  },
+  {
+    "query": "针灸和吃止痛药，治偏头痛哪个效果好？能去根吗？",
+    "label": "comparison"
+  },
+  {
+    "query": "糖尿病诊断标准是啥？我有点担心。",
+    "label": "factual"
+  },
+  {
+    "query": "贫血是咋定义的？我查血说贫血。",
+    "label": "factual"
+  },
+  {
+    "query": "放疗和粒子植入，对于前列腺癌，哪个复发率低？",
+    "label": "comparison"
+  },
+  {
+    "query": "孩子发烧多少度要吃退烧药？",
+    "label": "factual"
+  },
+  {
+    "query": "两种感冒药，一个含扑尔敏困，一个不含，开车该选哪个？",
+    "label": "comparison"
+  },
+  {
+    "query": "乙肝疫苗管用几年？",
+    "label": "factual"
+  },
+  {
+    "query": "我老公最近老说胸口疼，还喘不上气，他之前有高血压，这会不会是心脏出大问题了？",
+    "label": "reasoning"
+  },
+  {
+    "query": "两种钙片，碳酸钙和柠檬酸钙，哪个吸收好不便秘？",
+    "label": "comparison"
+  },
+  {
+    "query": "孩子多高算矮小症？",
+    "label": "factual"
+  },
+  {
+    "query": "感冒了吃什么药最管用？",
+    "label": "factual"
+  },
+  {
+    "query": "血脂高怎么定义？体检单看不懂。",
+    "label": "factual"
+  },
+  {
+    "query": "骨折了要多久才能好？",
+    "label": "factual"
+  },
+  {
+    "query": "为啥我吃降压药后脚踝肿了？是药不行吗？",
+    "label": "reasoning"
+  },
+  {
+    "query": "我眼睛突然看东西模糊，有黑影飘，是视网膜脱落吗？急！",
+    "label": "reasoning"
+  },
+  {
+    "query": "发烧多少度要去医院？",
+    "label": "factual"
+  },
+  {
+    "query": "雾化和打针，孩子肺炎用哪个好得快？对孩子伤害小？",
+    "label": "comparison"
+  },
+  {
+    "query": "阑尾炎的症状有哪些？",
+    "label": "factual"
+  },
+  {
+    "query": "物理治疗和手术治疗我的腰突，长远看哪个更好？",
+    "label": "comparison"
+  },
+  {
+    "query": "抑郁症的定义是什么？",
+    "label": "factual"
+  },
+  {
+    "query": "化疗和靶向治疗，哪个遭罪少一点？价格差得多不？",
+    "label": "comparison"
+  },
+  {
+    "query": "我老是头晕，是不是高血压？标准是多少来着？",
+    "label": "factual"
+  },
+  {
+    "query": "孩子发烧三天了，今天身上起了红点点，这是普通感冒还是啥传染病？",
+    "label": "reasoning"
+  },
+  {
+    "query": "我胆结石，但不疼，需要治疗吗？",
+    "label": "reasoning"
+  },
+  {
+    "query": "孩子学习时注意力不集中，是多动症还是缺锌？",
+    "label": "reasoning"
+  },
+  {
+    "query": "我胃疼，自己吃了奥美拉唑，时好时坏，要不要做胃镜？",
+    "label": "reasoning"
+  },
+  {
+    "query": "哮喘的定义是啥？医生说我可能是。",
+    "label": "factual"
+  },
+  {
+    "query": "为啥我吃感冒药后心跳特别快，心慌得不行？",
+    "label": "reasoning"
+  },
+  {
+    "query": "我吃二甲双胍后体重下降，是副作用还是糖尿病加重了？",
+    "label": "reasoning"
+  },
+  {
+    "query": "呼吸机和制氧机，家里老人肺不好，买哪个更实用？",
+    "label": "comparison"
+  },
+  {
+    "query": "我甲状腺结节，边界不清，要不要马上手术？",
+    "label": "reasoning"
+  },
+  {
+    "query": "我耳朵嗡嗡响，听力下降，是突发性耳聋吗？能治好吗？",
+    "label": "reasoning"
+  },
+  {
+    "query": "医生说我尿酸高，痛风的标准是啥？",
+    "label": "factual"
+  },
+  {
+    "query": "褪黑素和安眠药，哪个依赖小？能长期吃吗？",
+    "label": "comparison"
+  },
+  {
+    "query": "我最近头晕得厉害，血压忽高忽低，是不是颈椎病引起的？",
+    "label": "reasoning"
+  },
+  {
+    "query": "阿司匹林和布洛芬，到底哪个更安全啊？我有点担心副作用。",
+    "label": "comparison"
+  },
+  {
+    "query": "我爸心梗放了支架，为啥还要吃好几种药？不能只吃一种吗？",
+    "label": "reasoning"
+  },
+  {
+    "query": "血压140/90严重吗？",
+    "label": "factual"
+  },
+  {
+    "query": "长期吃止痛药会不会把胃吃坏啊？我朋友就胃出血了。",
+    "label": "reasoning"
+  },
+  {
+    "query": "哮喘会不会遗传？",
+    "label": "factual"
+  },
+  {
+    "query": "两种降压方案，一种单药，一种联合用药，哪个对肾脏保护更好？",
+    "label": "comparison"
+  },
+  {
+    "query": "他汀类药物有好几种，价格差挺大，贵的到底好在哪里？",
+    "label": "comparison"
+  },
+  {
+    "query": "进口药和国产药，效果真的差很多吗？价格差一大截呢。",
+    "label": "comparison"
+  },
+  {
+    "query": "我手术后一直低烧，伤口还有点红，是不是感染了？",
+    "label": "reasoning"
+  },
+  {
+    "query": "我血脂高，但吃降脂药后肌肉酸痛，能停药吗？",
+    "label": "reasoning"
+  },
+  {
+    "query": "我关节疼，化验类风湿因子阴性，还能是类风湿关节炎吗？",
+    "label": "reasoning"
+  },
+  {
+    "query": "两种降糖药，一个一天吃一次，一个一天吃三次，哪个控制血糖更稳？",
+    "label": "comparison"
+  },
+  {
+    "query": "听说胰岛素特别贵，是真的吗？跟吃二甲双胍比，一个月能差多少钱？",
+    "label": "comparison"
+  },
+  {
+    "query": "白内障的定义？",
+    "label": "factual"
+  },
+  {
+    "query": "胃溃疡吃啥药好？",
+    "label": "factual"
+  },
+  {
+    "query": "胃疼吃什么药缓解？",
+    "label": "factual"
+  },
+  {
+    "query": "生物制剂和传统药，治类风湿哪个见效快？价格是不是天价？",
+    "label": "comparison"
+  },
+  {
+    "query": "做支架和搭桥手术，对于心脏血管堵塞，哪个更一劳永逸？",
+    "label": "comparison"
+  },
+  {
+    "query": "贫血的血红蛋白标准是多少？",
+    "label": "factual"
+  },
+  {
+    "query": "透析和肾移植，对于尿毒症病人，生活质量哪个高？",
+    "label": "comparison"
+  },
+  {
+    "query": "吃安眠药和做认知行为治疗，失眠哪个更有效？",
+    "label": "comparison"
+  },
+  {
+    "query": "化疗药紫杉醇和多西他赛，副作用有啥不同？",
+    "label": "comparison"
+  },
+  {
+    "query": "过敏体质是啥意思？",
+    "label": "factual"
+  },
+  {
+    "query": "我妈骨质疏松，吃钙片的同时能喝咖啡吗？会不会影响吸收？",
+    "label": "reasoning"
+  },
+  {
+    "query": "啥叫冠心病？给解释解释呗。",
+    "label": "factual"
+  },
+  {
+    "query": "孩子咳嗽半个月了，白天还好，晚上咳得睡不着，会不会是哮喘？",
+    "label": "reasoning"
+  },
+  {
+    "query": "近视手术安全吗？",
+    "label": "factual"
+  },
+  {
+    "query": "我吃抗生素后阴道痒，有豆腐渣样分泌物，是霉菌感染吗？",
+    "label": "reasoning"
+  },
+  {
+    "query": "我爸脑梗后说话不清，能恢复吗？要不要做康复？",
+    "label": "reasoning"
+  },
+  {
+    "query": "打生长激素和自然调理，孩子个子矮用哪个更好？有后遗症吗？",
+    "label": "comparison"
+  },
+  {
+    "query": "骨质疏松是啥病？",
+    "label": "factual"
+  },
+  {
+    "query": "两种胰岛素，长效和短效，平时用起来哪个更方便？",
+    "label": "comparison"
+  },
+  {
+    "query": "冠心病是心脏血管堵了吗？",
+    "label": "factual"
+  },
+  {
+    "query": "靶向药和免疫治疗，现在哪个是趋势？效果和花费能说说吗？",
+    "label": "comparison"
+  },
+  {
+    "query": "头疼得厉害，该吃啥药能快点好？",
+    "label": "factual"
+  },
+  {
+    "query": "血压突然升高怎么办？",
+    "label": "factual"
+  },
+  {
+    "query": "我老是反酸、烧心，是不是胃食管反流？会癌变吗？",
+    "label": "reasoning"
+  },
+  {
+    "query": "近视多少度算高度近视？",
+    "label": "factual"
+  },
+  {
+    "query": "拔牙和根管治疗，哪个更划算？长远看。",
+    "label": "comparison"
+  },
+  {
+    "query": "医生，我吃了那个降糖药之后老是拉肚子，浑身没劲，这是不是药不对症啊？",
+    "label": "reasoning"
+  },
+  {
+    "query": "两种眼药水，一个防腐剂多，一个少，长期用该选哪个？",
+    "label": "comparison"
+  },
+  {
+    "query": "我头皮屑多、掉头发，是真菌感染还是脂溢性皮炎？",
+    "label": "reasoning"
+  },
+  {
+    "query": "做胃镜和无痛胃镜，除了价格，体验上差多少？",
+    "label": "comparison"
+  },
+  {
+    "query": "甲亢是啥意思？",
+    "label": "factual"
+  },
+  {
+    "query": "血脂高有啥危害？",
+    "label": "factual"
+  },
+  {
+    "query": "血糖多少是正常的？",
+    "label": "factual"
+  },
+  {
+    "query": "孩子打完疫苗后发烧、哭闹，正常吗？会不会是疫苗反应？",
+    "label": "reasoning"
+  },
+  {
+    "query": "我吃海鲜后全身起疹子，呼吸困难，以前不过敏啊，这是咋回事？",
+    "label": "reasoning"
+  },
+  {
+    "query": "敷面膜和做医美激光，改善皮肤哪个性价比高？",
+    "label": "comparison"
+  },
+  {
+    "query": "啥是肺炎？怎么判断？",
+    "label": "factual"
+  },
+  {
+    "query": "孩子发烧，美林和泰诺林，哪个更安全？副作用有啥不一样？",
+    "label": "comparison"
+  },
+  {
+    "query": "我怀孕后血糖高，生完会得糖尿病吗？",
+    "label": "reasoning"
+  },
+  {
+    "query": "角膜塑形镜和框架眼镜，控制孩子近视哪个效果更确凿？",
+    "label": "comparison"
+  },
+  {
+    "query": "膏药和口服止痛药，治膝盖疼哪个更治标？",
+    "label": "comparison"
+  },
+  {
+    "query": "我长期失眠，吃安眠药会不会上瘾？有没有别的办法？",
+    "label": "reasoning"
+  },
+  {
+    "query": "两种疫苗，灭活的和mRNA的，保护效果和安全性有啥区别？",
+    "label": "comparison"
+  },
+  {
+    "query": "高血压药必须天天吃吗？",
+    "label": "factual"
+  },
+  {
+    "query": "医生开了两种降压药，一个叫XX，一个叫YY，我该选哪个？纠结死了。",
+    "label": "comparison"
+  },
+  {
+    "query": "我体检发现转氨酶升高，但我没喝酒啊，是不是吃他汀类药吃的？",
+    "label": "reasoning"
+  },
+  {
+    "query": "为啥我奶奶一吃阿司匹林就胃疼得厉害，还黑便？不是说这药能预防中风吗？",
+    "label": "reasoning"
+  },
+  {
+    "query": "我爸帕金森，吃药后效果变差，是耐药了吗？",
+    "label": "reasoning"
+  },
+  {
+    "query": "肺炎一定要住院吗？",
+    "label": "factual"
+  },
+  {
+    "query": "我体检CA125升高，很害怕，一定是卵巢癌吗？",
+    "label": "reasoning"
+  },
+  {
+    "query": "乙肝的传播途径有哪些？",
+    "label": "factual"
+  }
+]
